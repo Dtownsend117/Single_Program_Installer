@@ -1,6 +1,7 @@
 # Single_Program_Installer
 Lists all available installers from the directory to choose from
 Great for setting up new computers with essential software
+Currently, it only supports files with the '.exe' extension
 
 You will need to add your installers with the 'EXE' extension
 Currently, there is no support for other extensions
